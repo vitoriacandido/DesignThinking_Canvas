@@ -12,7 +12,7 @@
 
 ## 4. Quais possíveis soluções você imaginou?
 
-- *Atendimento online, auto resposta cm inteligencia artifical.*
+- *Atendimento online, auto resposta com inteligencia artifical.*
 
 ## 5. Como você testaria a melhor solução?
 
